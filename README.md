@@ -1,6 +1,6 @@
-## Portfolio Website using Next.js and Tailwind CSS
+## Portfolio Scraping Website using Next.js and Tailwind CSS
 
-This repository contains the source code for my personal portfolio website. The website showcases my projects, skills, and experience as a software developer.
+This repository contains the source code for the personal portfolio Scraping website.
 
 ### Features:
 - Built with Next.js for server-side rendering and SEO benefits.
@@ -8,7 +8,7 @@ This repository contains the source code for my personal portfolio website. The 
 - Includes sections for project highlights, skills, and contact information.
 
 ### About the Scraping Website:
-I also developed a scraping website as part of my portfolio, demonstrating web scraping techniques and data visualization.
+As part of my portfolio, I also developed a scraping website, demonstrating web scraping techniques and data visualization.
 
-Feel free to explore the code and adapt it for your own portfolio website!
+Feel free to explore and adapt the code for your portfolio website!
 
